@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Versatile Software Developer and Data Engineer with comprehensive experience in data analysis, backend and frontend development, open-source and licensed technologies in both commercial and government environments. Recognized for strong problem-solving skills, quick learning, and adaptability. Experienced in handling diverse software products from conception to deployment. Proficient in managing teams and conducting interviews to ensure the right fit for the company.
+Versatile Software Developer and Data Engineer with comprehensive experience in data analysis, backend and frontend development, open-source and licensed technologies in both commercial and government environments. Recognized for strong problem-solving skills, quick learning, and adaptability. Experienced in handling diverse software products from conception to deployment. Proficient in management and consultation as well as having some experience carrying out interviews.
 
 ## Skills
 
