@@ -17,10 +17,14 @@ Versatile Software Developer and Data Engineer with comprehensive experience in 
 - Skilled in Project Management and Team Leadership
 - Strong ability in System Architecture Design and Implementation
 - Experience in working with Cross-Functional Teams
+- Management skills managing and supporting direct reports
+- Consultation skills working with clients mainly in different sectors of government with various technologies and solutions to a variety of projects
 
 ## Work Experience
 
 ### Madetech – Senior Software Developer and Data Engineer (April 2022 – Present)
+- Working with OFGEM on the GBIS Eco Plus project, Eco Plus is the modern cloud system for the Great British Insulation Scheme build with Microsoft technologies (.Net, C#, Razor, Azure) using micro service architechture.
+- Upskill the team at the University of Sheffield on using Amazon Web Services to move their student tracking systems into the cloud using Terraform infrastructure as cloud.
 - Collaborated with GDS developers in developing the Prototype Kit (v13.7.1), focusing on enhancing user experience by providing clear error insights and facilitating plugin integration.
 - Built an innovative data ingestion system for the DVLA Data Lake project, ensuring data encryption and tackling unique schema problems.
 
